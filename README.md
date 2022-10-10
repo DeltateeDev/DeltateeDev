@@ -1,16 +1,14 @@
-### Hi there 👋
+### **Deltatee / VerWellick**
 
-<!--
-**VerWellick/VerWellick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developerling & a Cyber Security Enthusiast.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - He/Him
+ - ClickTeam Fusion Game Dev
+ - Cyber Security Enthusiast
+ - MTA 98-366 : https://bit.ly/3Cm1tsO
+ - 2nd Place in 2021' WSEI_Craft_6.0 Hackaton
+ - INF.02
+ - https://deltatee.xyz/
+ - Δ XIV Enjoyer Δ
+ 
+ _What will it take just for me to have it all?_
