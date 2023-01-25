@@ -11,4 +11,4 @@ Game Developerling & a Cyber Security Enthusiast.
  - https://deltatee.xyz/
  - Δ XIV Enjoyer Δ
  
- _What will it take just for me to have it all?_
+ _h_
