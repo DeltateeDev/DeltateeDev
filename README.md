@@ -5,10 +5,9 @@ Game Developerling & a Cyber Security Enthusiast.
  - He/Him
  - ClickTeam Fusion Game Dev
  - Cyber Security Enthusiast
- - Languages: JS, PHP, C++, Python, LUA
  - MTA 98-366 : https://bit.ly/3Cm1tsO
  - 2nd Place in 2022' WSEI_Craft_6.0 Hackaton
- - INF.02
- - Δ XIV Enjoyer Δ
- 
- _jm_
+ - 3rd Place in 2023' WSEI_Craft_7.0 Hackaton
+ - Languages: JS, PHP, C++, Python, LUA
+ - Learning: Unity, C#, Kotlin
+ - INF.02 & INF.03 
