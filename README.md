@@ -1,6 +1,6 @@
-### **Inin / Deltatee / VerWellick**
+### **Deltatee / Inin**
 
-Game Developerling & a Cyber Security Enthusiast.
+Cybersecurity Enthusiast & a Game Developer
 
  - He/Him
  - ClickTeam Fusion 2.5+ Game Dev
