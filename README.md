@@ -10,5 +10,5 @@ Cybersecurity Enthusiast & a Game Developer
  - 2nd Place in 2022' WSEI_Craft_6.0 Hackaton
  - 3rd Place in 2023' WSEI_Craft_7.0 Hackaton
  - Languages: JS, PHP, C++, Python, LUA
- - Learning: Unity, C#, Rust
+ - Learning: Godot, C#, Rust
  - INF.02 & INF.03 
