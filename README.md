@@ -2,7 +2,7 @@
 
 ### Hello, I'm Inin - aka DeltateeDev
 
-**`Indie Game Developer / Software Developer / Cybersecurity Enthusiast`**
+**`Indie Game Developer / Software Engineer / Cybersecurity Student`**
 
 I am an Indie Game & Software Developer experimenting with many technologies in order to build more creative and useful projects.
 I'm learning by practice and every project of mine has been built from the ground up. 
