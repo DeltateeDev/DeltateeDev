@@ -37,3 +37,4 @@ My newest released project is **[Crab Collector](https://play.google.com/store/a
  - **Certified 2023: INF.03**
  - **2nd Place** in 2022' WSEI_Craft_6.0 Hackaton
  - **3rd Place** in 2023' WSEI_Craft_7.0 Hackaton
+ - **7th Place** in 2024' [Brackey's Game Jam](https://itch.io/jam/brackeys-11/rate/2535757)
