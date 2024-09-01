@@ -2,9 +2,9 @@
 
 ### Hello, I'm Inin - aka Deltatee
 
-**`Indie Game Developer / Software Engineer / Cybersecurity Student`**
+**`Game Designer / Software Engineer / Cybersecurity Student`**
 
-I am an Indie Game & Software Developer experimenting with many technologies in order to build more creative and useful projects.
+I am a Game & Software Developer experimenting with many technologies in order to build more creative and useful projects.
 I'm learning by practice and every project of mine has been built from the ground up. 
 
 My newest released project is **[Crab Collector](https://play.google.com/store/apps/details?id=com.deltateedev.crabcollector)** - A Mobile Scavenger-Hunt Game
