@@ -1,6 +1,6 @@
 <img alt="Crab Collector Icon" width="30px" style="padding-right:10px;" src="https://crabcollector.com/img/crab_collector_icon.png"/>
 
-### Hello, I'm Inin - aka Deltatee
+### Hello, I'm Deltatee
 
 **`Game Designer / Software Engineer / Cybersecurity Student`**
 
