@@ -7,7 +7,7 @@
 I am a Game & Software Developer experimenting with many technologies in order to build more creative and useful projects.
 I'm learning by practice and every project of mine has been built from the ground up. 
 
-My newest released project is **[Gatekeeper](https://deltateedev.itch.io/gatekeeper)** - A Meta-Narrative Puzzle Game
+My newest released project is **[Crossroads](https://deltatee.itch.io/crossroads)** - A short horror game where the future players decide on your current fate.
 
 ---
 
