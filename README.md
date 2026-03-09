@@ -37,4 +37,5 @@ My newest released project is **[Crossroads](https://deltatee.itch.io/crossroads
  - **Certified 2023: INF.03**
  - **2nd Place** in 2022' WSEI_Craft_6.0 Hackaton
  - **3rd Place** in 2023' WSEI_Craft_7.0 Hackaton
- - **7th Place** in 2024' [Brackey's Game Jam](https://itch.io/jam/brackeys-11/rate/2535757)
+ - **7th Place** in 2024' [Brackeys Game Jam](https://itch.io/jam/brackeys-11/rate/2535757)
+ - **Top 2.9%** in 2026' [Brackeys Game Jam](https://itch.io/jam/brackeys-15/rate/4313235)
